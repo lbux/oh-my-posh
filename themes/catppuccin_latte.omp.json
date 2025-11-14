@@ -37,6 +37,7 @@
         {
           "foreground": "p:lavender",
           "properties": {
+            "display_virtual_env": true
             "branch_icon": "\ue725 ",
             "cherry_pick_icon": "\ue29b ",
             "commit_icon": "\uf417 ",
